@@ -13,7 +13,7 @@ function setup() {
   birddy = new bird(-150, 1)
   pipee = new pipe(50, [255, 255, 255])
 
-  smooth()//Heh mau ngapain Anjing
+  smooth()//if  you are a hacker you can incomment this function and if not it will make the game laggy
 }
 
 function draw() {
