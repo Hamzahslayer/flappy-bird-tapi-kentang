@@ -4,7 +4,7 @@ class pipe {
     this.x = width / 2 + w
     this.w = w
     this.col = col
-    this.getpassed='false'
+    this.getpassed='true'
   }
   display() {
     push()
